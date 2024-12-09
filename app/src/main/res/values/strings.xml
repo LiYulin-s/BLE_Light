@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BLE Light</string>
+    <string name="shopping_cart_content_desc" />
+    <string name="randomize_color" />
+    <string name="send_color" />
+    <string name="refresh" />
+</resources>
